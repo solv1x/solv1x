@@ -2,7 +2,7 @@
 
 # Привет, я [Твоё Имя] 👋
 
-### Frontend Developer · Open Source Enthusiast · [Город/Страна]
+### Developer · Open Source Enthusiast · [Город/Страна]
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Пишу+чистый+код;Создаю+удобные+интерфейсы;Открыт+к+сотрудничеству)](https://git.io/typing-svg)
 
@@ -13,8 +13,8 @@
 ## 🧑‍💻 Обо мне
 
 - 🔭 Сейчас работаю над **интересным проектом**
-- 🌱 Изучаю **TypeScript и архитектуру фронтенда**
-- 💬 Спрашивай меня о **React, CSS и вёрстке**
+- 🌱 Изучаю **новые технологии и архитектуру**
+- 💬 Спрашивай меня о **Java, Python, C# и вёрстке**
 - 📫 Как связаться: **[твоя почта]**
 
 ---
@@ -23,22 +23,11 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 Немного статистики
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИКНЕЙМ&show_icons=true&theme=transparent&hide_border=true&locale=ru" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИКНЕЙМ&layout=compact&theme=transparent&hide_border=true&locale=ru" />
 
 </div>
 
