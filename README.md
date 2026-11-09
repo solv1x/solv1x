@@ -1,8 +1,14 @@
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Retro Dev Setup" width="800" />
+</div>
 
-# Привет, я Роман👋
+<br />
 
-### · Developer · AI Enthusiast ·
+<div align="center">
+
+# Привет, я Роман 👋
+
+### Developer · AI Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Пишу+чистый+код;Работаю+с+нейросетями;Открыт+к+сотрудничеству)](https://git.io/typing-svg)
 
@@ -16,7 +22,7 @@
 - 🔭 Работаю над **проектами с применением ИИ**
 - 🤖 Практический опыт с **нейросетями**
 - 💬 Открыт к разговору о **коде, вёрстке и нейросетях**
-- 📫 Как связаться: **Все ссылке в профиле.**
+- 📫 Как связаться: **Все ссылки в профиле**
 
 ---
 
