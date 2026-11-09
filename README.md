@@ -2,7 +2,7 @@
 
 # Привет, я [Твоё Имя] 👋
 
-### Developer · AI Enthusiast · [Город/Страна]
+### · Developer · AI Enthusiast ·
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Пишу+чистый+код;Работаю+с+нейросетями;Открыт+к+сотрудничеству)](https://git.io/typing-svg)
 
