@@ -1,4 +1,4 @@
-![image alt](https://github.com/solv1x/solv1x/blob/main/assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true)
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Retro Dev Setup" width="800" />
 </div>
@@ -23,7 +23,7 @@
 - 💬 Открыт к разговору о **коде, вёрстке и нейросетях**
 - 📫 Как связаться: **Все ссылки в профиле**
 
----
+![image alt](https://github.com/solv1x/solv1x/blob/main/assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true)
 
 ## 🛠 Технологии
 
