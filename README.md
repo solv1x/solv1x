@@ -1,7 +1,7 @@
+![image alt](https://github.com/solv1x/solv1x/blob/main/assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true)
 <div align="center">
   <img src="https://github.com/user-attachments/assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Retro Dev Setup" width="800" />
 </div>
-
 <br />
 
 <div align="center">
@@ -10,7 +10,6 @@
 
 ### Developer · AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Пишу+чистый+код;Работаю+с+нейросетями;Открыт+к+сотрудничеству)](https://git.io/typing-svg)
 
 </div>
 
