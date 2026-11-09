@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**solv1x/solv1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Привет, мир! Я [Имя]
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Fullstack+разработчик;Люблю+чистый+код;Открыт+к+коллаборациям" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 Обо мне
+
+- 🔭 Сейчас работаю над **[проект]**
+- 🌱 Учусь **[чему-то новому]**
+- 👯 Ищу единомышленников для **open-source**
+- 📫 Как связаться: **[email]**
+- ⚡ Девиз: *«Сначала сделай, чтобы работало. Потом — чтобы красиво.»*
+
+---
+
+## 💻 Мой стек
+
+<div align="center">
+
+| Backend | Frontend | DevOps |
+|---------|----------|--------|
+| Python, Go | React, Vue | Docker, K8s |
+| PostgreSQL | TypeScript | CI/CD |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Спасибо, что заглянул! Поставь ⭐, если что-то пригодилось
+
+</div>
