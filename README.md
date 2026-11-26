@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Привет, я solv1x 👋
+# Привет, я solv1x (Gradle)👋
 
 ### Developer · AI Enthusiast
 
